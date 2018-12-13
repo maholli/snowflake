@@ -21,7 +21,7 @@ For example....
 * The LEDs are called "NEOPIXEL" and you can operate them as described here: https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-neopixel
 * There are TWO capacitive touch buttons named "CAP0" and "CAP1" respectively. These buttons correspond to the two pointy bits of the snowflake opposite from the USB connector.
 * Example files can be found on the snowflake github listed above.
-* This all made possible because Adafruit invests time and resources providing open source designs and software. Please support Adafruit and open-source hardware by purchasing products from Adafruit and documenting your projects!!
+### This all made possible because Adafruit invests time and resources providing open source designs and software. Please support Adafruit and open-source hardware by purchasing products from Adafruit and documenting your projects!!
 
 Have fun!
 <3 lab64 team 2018
